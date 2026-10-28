@@ -79,7 +79,7 @@ Before running the script, ensure you have the following installed and configure
 
 3. Open PowerShell in the script directory and execute:
    ```powershell
-   .\ADB_App_Optimizer.ps1
+   .\Android_App_Optimizer.ps1
    ```
 
 *(Note: If PowerShell blocks script execution, run `Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser` once to allow local script runs).*
