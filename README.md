@@ -114,8 +114,8 @@ cd Android-App-Optimizer
 
 ## ⚠️ Notes & Thermal Advisory
 
-* **Thermals:** Compiling hundreds of packages with `-m speed` will push your device's SoC to sustained multi-core load for 10–25 minutes. Place your phone on a flat surface or near airflow to avoid thermal throttling.
-* **Storage Footprint:** Full `speed` compilation generates native ELF binaries for every method. Internal storage usage will expand by approximately 1–3 GB depending on installed app volume.
+* **Thermals:** Compiling hundreds of packages with `-m speed` will push your device's SoC to sustained multi-core load for 15-45+ minutes depending on device CPU speed. Place your phone on a flat surface or near airflow to avoid thermal throttling.
+* **Storage Footprint:** Full `speed` compilation generates native ELF binaries for every method. Internal storage usage will increase by multiple GB depending on installed app volume.
 * **Play Store Updates:** When Google Play updates an app, Android resets that specific app's compilation filter back to the cloud profile baseline until your next compilation pass or idle maintenance window.
 
 ---
