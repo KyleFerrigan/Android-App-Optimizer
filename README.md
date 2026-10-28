@@ -71,7 +71,7 @@ Before running the script, ensure you have the following installed and configure
 
 ### Option 1: Direct Release Download (Easiest)
 1. Go to the [**Releases**](https://github.com/KyleFerrigan/Android-App-Optimizer/releases) page.
-2. Download the latest `ADB_App_Optimizer.ps1` script directly.
+2. Download the latest `Android_App_Optimizer.ps1` script directly.
 3. Place it into any folder of your choice (e.g., `D:\Scripts`).
 
 ### Option 2: Clone the Repository
@@ -91,7 +91,7 @@ cd Android-App-Optimizer
    ```
 3. Navigate to the script's directory and execute:
    ```powershell
-   .\ADB_App_Optimizer.ps1
+   .\Android_App_Optimizer.ps1
    ```
 
 ---
