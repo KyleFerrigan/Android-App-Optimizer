@@ -2,7 +2,7 @@
 
 An interactive, high-performance PowerShell TUI utility to manage, force-compile, profile, or reset Android runtime (`dexopt` / ART) bytecode optimization across all installed packages or specific user-selected applications via ADB.
 
-Unlike traditional blind compile scripts, this tool provides real-time ANSI in-place console navigation, pre/post compilation status telemetry, friendly package identification, and granular control over compilation filters.
+This tool provides real-time ANSI in-place console navigation, pre/post compilation status telemetry, friendly package identification, and granular control over compilation filters.
 
 ---
 
