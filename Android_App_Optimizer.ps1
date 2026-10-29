@@ -404,4 +404,4 @@ Write-Host "All $total package(s) successfully processed!`n" -ForegroundColor Gr
 Write-Host "Capturing final DEX status..." -ForegroundColor Cyan
 Get-DexStatus
 
-Write-Host "Device operation complete." -ForegroundColor Green
+Write-Host "Optimization complete!" -ForegroundColor Green
